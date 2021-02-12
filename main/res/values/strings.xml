@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="counter_title_label">Counter</string>
+    <string name="counter1">+1</string>
+    <string name="counter5">+5</string>
+    <string name="reset">Reset</string>
+    <string name="counterNeg1">-1</string>
+    <string name="counterNeg5">-5</string>
+</resources>
+
